@@ -1,0 +1,2 @@
+# PlatziVideo
+development environment configuration
